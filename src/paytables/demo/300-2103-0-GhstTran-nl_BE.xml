@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="nl_BE">
+<phrase key="softwareId" value="Software-ID"/>
+<phrase key="transactionId" value="Transactie-ID"/>
+<phrase key="totalWins" value="Totale winst"/>
+<phrase key="totalWager" value="Totale inzet"/>
+<phrase key="yourTurns" value="Je beurten"/>
+<phrase key="yourSymbols" value="Je symbolen"/>
+<phrase key="matched" value="Gevonden"/>
+<phrase key="youMatched" value="U hebt een combinatie gevonden van"/>
+</translation>
